@@ -7,7 +7,7 @@
 - NPM@6.14.4
 
 # Cenário de Teste:
-- Imprmir informações da segunda pagina da lista
+- Imprimir informações da segunda pagina da lista
 
 # Fluxo do cenário:
 - Acessar a pagina https://www.cesar.school/
